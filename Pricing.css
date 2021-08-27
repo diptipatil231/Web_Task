@@ -1,0 +1,73 @@
+.btn{
+	border-radius : 25px;
+}
+
+img{
+	height:450px; 
+	width:1200px;
+	position:relative;
+	left:100px;
+}
+
+body{
+	
+	background-image : url("ice.png");
+	background-repeat : repeat;
+}
+
+.container{
+	position:relative;
+	right:40px;
+}
+	
+.card{
+	position:relative;
+	right:10px;
+	width : 260px;
+}
+.c{
+	text-align: right;
+}
+
+.hearderset h1{
+	font-size : 67px;
+	font-weight : bold;
+	position : absolute;
+	top : 50%;
+	left : 50%;
+	transform : translate(-50%,-50%);
+}
+.temp{
+	width : 255px;
+	height : 50px;
+	position : relative;
+	right : 20px;
+	left :7px;
+	
+}
+
+.five{
+	position : relative;
+	border-radius : 50%;
+	height : 60px;
+	width : 60px;
+	left : 50px;
+}
+.second{
+	font-size:45px;
+}
+.third{
+	font-size:45px;
+}
+.six{
+	position : relative;
+	height : 60px;
+	width : 60px;
+	left : 65px;
+}
+.col-md-8{
+	left : 50px;
+}
+
+
+
