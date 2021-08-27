@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.bg1{
+    width: 1200px;
+    height: 300px;
+   
+    margin-left: 10px;
+    margin-top: 80px;
+}
+.container{
+    grid-template-rows: 100px 300px;
+}
+.media-body{
+    height: fit-content;
+    width: fit-content;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
